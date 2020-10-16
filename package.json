@@ -1,8 +1,3 @@
 {
-    "name" : "pabot",
-    "version" : "0.0.1",
-    "description" : "bot procvrado pela abin",
-    "main" : "pabot.js",
-    "author": "m0ksha",
-    "dependencies": {} 
+    "type" : "module"
 }
